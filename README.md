@@ -1,7 +1,7 @@
 # TrackingMore: FedEx Tracking API & Webhook
 [FedEx Tracking API](https://www.trackingmore.com/fedex-tracking-api.html) allows for the incorporation of FedEx shipment tracking data into your system, enhancing visibility of shipments.
 
-In addition to FedEx, TrackingMore offers the ability to track shipments with over 1,200 international carriers via a powerful [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+In addition to [FedEx Tracking](https://www.trackingmore.com/fedex-tracking.html), TrackingMore offers the ability to track shipments with over 1,200 international carriers via a powerful [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
 
 TrackingMore's API is compatible with seven programming languages and comes with detailed documentation to aid in the setup and usage, simplifying the integration procedure.
 
